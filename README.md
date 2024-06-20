@@ -10,6 +10,7 @@ Assista o vídeo desta aula:
 - [Visão geral sobre mapeamento objeto-relacional](#Visão-geral-sobre-mapeamento-objeto-relacional)
 - [JPA](#JPA)
 - [Criando uma aplicação simples](#Criando-uma-aplicação-simples)
+- [COMANDOS](#COMANDOS)
 
 ## Conteúdo
 - Visão geral sobre mapeamento objeto-relacional
